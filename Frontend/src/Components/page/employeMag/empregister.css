@@ -1,0 +1,108 @@
+/* html, body {
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+} */
+body, div, .add-emp-form, .add-emp-input, label {
+    padding: 0;
+    margin: 0;
+    outline: none;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 13px;
+    color: white;
+    line-height: 15px;
+   
+}
+
+.testbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: inherit;
+    padding: 20px;
+}
+      
+.add-emp-form {
+   
+    width: 30%;
+    padding: 20px;
+    margin: auto;
+    background-color: #34495E;
+    opacity: 85%;
+    border-radius: 25px;
+    box-shadow: 0 0 20px 0  hsl(0, 11%, 91%);
+}
+
+.add-emp-input {
+
+    margin-bottom: 10px;
+    border: 1px solid rgb(222, 211, 211);
+    border-radius: 3px;
+}
+
+.add-emp-input {
+    width: calc(100% - 10px);
+    padding: 10.5px 14px;;
+}
+
+.add-emp-input[type="date"] {
+padding: 10.5px 14px;;
+}
+
+/* .item:hover p, .item:hover i, .question:hover p, .question label:hover, input:hover::placeholder {
+color:#004d00;
+} */
+.item input:hover {
+    border: 1px solid transparent;
+    box-shadow: 0 0 6px 0 #004d00;
+    color:hsl(0, 0%, 0%);
+}
+.item {
+    position: relative;
+    margin: 10px 0;
+}
+.item span {
+    color: red;
+}
+/* input[type="date"]::-webkit-inner-spin-button {
+display: none;
+} */
+
+.add-emp-input[type="text"], .add-emp-input[type="email"], .add-emp-input[type="tel"], .add-emp-input[type="datetime-local"], .add-emp-input[type="Number"], .add-emp-input[type="date"], .add-emp-input[type="url"], .add-emp-input {
+
+     width:100%;
+    
+     border:1px solid #CCC;
+    
+     background:#BFC9CA;
+    
+     margin:2px 0 5px;
+    
+    padding:20px;
+}
+
+
+
+.btn-block {
+margin-top: 10px;
+text-align: center;
+}
+button {
+    width: 150px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: rgb(255, 255, 255);
+    font-size: 15px;
+    color: rgb(24, 150, 60);
+    cursor: pointer;
+}
+button:hover {
+    background: #082908;
+}
+
+.bodycolor{
+    background-color: #f6f8f8;
+    background:linear-gradient(135deg,#ffffff,#92d0fa,#ffffff);
+
+}

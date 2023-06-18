@@ -1,0 +1,17 @@
+.inventorytopic{
+        background-color: rgb(207, 202, 202);
+        width: 100%;
+        height: 150px;
+        padding-top: 10px;
+}
+
+.h1{
+
+        font-size: 78px;
+        font-weight: bolder;
+        display: block;
+        color: black;
+        margin-top: 6px;
+        font-family: system-ui;
+        margin-left: 50px;
+}

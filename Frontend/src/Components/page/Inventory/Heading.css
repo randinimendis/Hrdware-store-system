@@ -1,0 +1,50 @@
+.inventorytopic{
+    background-color: rgb(207, 202, 202);
+    width: 100%;
+    height: 150px;
+    padding-top: 10px;
+}
+
+.h1{
+
+    font-size: 78px;
+    font-weight: bolder;
+    display: block;
+    color: black;
+    margin-top: 6px;
+    font-family: system-ui;
+    margin-left: 50px;
+}
+
+.b1{
+    font-weight: bolder;
+    color: black;
+    font-family: system-ui;
+    height: 35px;
+    width: fit-content;
+    border: none;
+    margin: 0;
+    cursor: pointer;
+}
+
+.b2{
+    font-weight: bolder;
+    font-family: system-ui;
+    background-color: rgb(207, 202, 202);
+    height: 35px;
+    width: fit-content;
+    border: none;
+    margin-top: 0px;
+    cursor: pointer;
+}
+.contentWrapper{
+    height: 50px;
+    border-bottom: 1px solid black ;
+}
+.home{
+    font-size: 22px;
+}
+.item {
+
+        font-size: 22px;
+}

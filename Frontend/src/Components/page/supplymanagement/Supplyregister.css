@@ -1,0 +1,137 @@
+/*html, body {
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-color: #f6f8f8;
+    background:linear-gradient(135deg,#ffffff,#92d0fa,#ffffff);
+}*/
+body, div, .add-supply-form,.add-supply-input, label {
+    padding: 0;
+    margin: 0;
+    outline: none;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 18px;
+    color: rgb(14, 13, 13);
+    line-height: 15px;
+    
+   
+}
+label{
+    color: #000 !important; 
+}
+
+.testbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: inherit;
+    padding: 20px;
+    
+}
+      
+.add-supply-form {
+    
+    width: 40%;
+    padding: 60px;
+    margin: auto;
+    background-color: #ffffff;
+    /*background:linear-gradient(135deg,#a3d4f5,#ee8acd);*/
+    opacity: 85%;
+    border-radius: 20px;
+    box-shadow: 0 0 20px 0  hsla(0, 3%, 8%, 0.678);
+    justify-content: center;
+    align-items: center;
+
+}
+
+.add-supply-input {
+
+    margin-bottom: 10px;
+    border: 1px solid rgb(209, 195, 195);
+    border-radius: 3px;
+}
+
+.add-supply-input{
+    width: calc(100% - 30px);
+    padding: 10.5px 14px;;
+}
+
+.add-supply-input[type="date"] {
+padding: 10.5px 14px;;
+}
+
+/* .item:hover p, .item:hover i, .question:hover p, .question label:hover, input:hover::placeholder {
+color:#004d00;
+} */
+.item input:hover {
+    border: 1px solid transparent;
+    box-shadow: 0 0 6px 0 #004d00;
+    color:hsl(0, 0%, 0%);
+}
+.item {
+    position: relative;
+    margin: 10px 0;
+}
+.item span {
+    color: red;
+}
+/* input[type="date"]::-webkit-inner-spin-button {
+display: none;
+} */
+
+.add-supply-input[type="text"], input[type="email"], input[type="tel"], input[type="datetime-local"], input[type="Number"], input[type="date"], input[type="url"], textarea {
+
+     width:100%;
+    
+     border:1px solid #CCC;
+    
+     background:#BFC9CA;
+    
+     margin:2px 0 5px;
+    
+    padding:20px;
+}
+
+
+
+.btn-block {
+margin-top: 10px;
+text-align: center;
+}
+button {
+    width: 150px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: rgb(150, 124, 241);
+    font-size: 18px;
+    color: rgb(20, 20, 20);
+    cursor: pointer;
+}
+button:hover {
+    background: #fafd49;
+}
+btn-primaryy{
+    width: 150px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: rgb(255, 255, 255);
+    font-size: 18px;
+    color: rgb(12, 12, 12);
+    cursor: pointer;
+    
+}
+.h2{
+    text-align:center;
+    
+}
+.hed{
+    color: #000;
+}
+
+.bodycolor{
+    background-color: #f6f8f8;
+    background:linear-gradient(135deg,#ffffff,#92d0fa,#ffffff);
+
+}

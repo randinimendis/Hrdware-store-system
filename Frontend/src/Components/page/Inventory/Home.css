@@ -1,0 +1,9 @@
+.backGround{
+    width: 100%;
+    background-position: 50%;
+    background: linear-gradient(90deg, rgba(107,155,196,1) 0%, rgba(128,81,209,1) 27%, rgba(142,93,210,1) 57%);
+    height: 100vh;  
+}
+/* .innerGround{
+    background-color: rgba(0, 0, 0, 0.75);
+} */

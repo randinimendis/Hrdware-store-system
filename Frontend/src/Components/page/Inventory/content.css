@@ -1,0 +1,48 @@
+.button1{
+   height: 300px;
+   margin-top: 100px;
+   width: 200px;
+   cursor: pointer;
+}
+
+.button2{
+   height: 300px;
+   margin-top: 100px;
+   width: 200px;
+   cursor: pointer;
+}
+.invent{
+   font-size: 22px;
+   font-weight: bolder;
+   color: black;
+   font-family: system-ui;
+   margin-bottom: 400px;
+   margin-left: -4px;
+   text-align: initial;
+
+}
+
+.SALES{
+   font-size: 22px;
+   font-weight: bolder;
+   color: black;
+   font-family: system-ui;
+   margin-bottom: 400px;
+   margin-left: -4px;
+   text-align: initial;
+
+}
+
+.contentWrappers{
+   height: auto;
+   width: 100%;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: nowrap;
+   align-items: center;
+   justify-content: center;
+   gap: 150px;
+   
+}
+
+

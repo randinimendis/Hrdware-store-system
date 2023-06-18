@@ -1,0 +1,40 @@
+.btnWrapper{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 60px;
+    grid-row-gap: 40px;
+    justify-content: space-around;
+    justify-items: center;
+}
+.feildWrapper{
+    display: flex;
+    flex-direction: column-reverse;
+    
+}
+.feildWrapper2{
+    display: grid;
+    grid-template-columns: auto auto 26%;
+    justify-items: start;
+}
+.labeles{
+display: block;
+font-size: 22px;
+font-weight: 800;
+}
+.feilds{
+display: block;
+width: 300px;
+height: 40px;
+text-align: center;
+font-size: 20px;
+border: 1px solid black;
+}
+.SubmitBtn{
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 80px;
+    grid-column-start: 3;
+    cursor: pointer;
+}

@@ -1,0 +1,160 @@
+.b1{
+    font-weight: bolder;
+    color: black;
+    font-family: system-ui;
+    background-color:white;
+    width: fit-content;
+    border: none;
+    height: 100%;
+    margin: 0;
+    cursor: pointer;
+}
+
+.b2{
+    font-weight: bolder;
+    color: black;
+    background-color: white;
+    font-family: system-ui;    
+    width: fit-content;
+    border: none;
+    height: 100%;
+    margin-top: 0px;
+    cursor: pointer;
+}
+.b3{
+    background-color: white;
+    font-weight: bolder;
+    border: none;
+    text-decoration: underline;
+    width: 233px;
+    height: 100%;
+    float: right;
+    cursor: pointer;
+}
+
+.b1:hover,.b2:hover,.b3:hover{
+    background-color: rgb(207, 202, 202);  
+}
+.tableWrapper{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.home{
+    font-size: 22px;
+}
+
+.item {
+
+        font-size: 22px;
+}
+
+.report{
+    font-size: 22px;
+
+}
+
+.raw1{
+    background-color: rgb(207, 202, 202);
+   
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    gap: 115px;
+    margin-top: 19px;
+    height: 51px;
+    align-items: center;
+    font-weight: 800;
+}
+.r1{
+    width: 100px;
+
+}
+.r2{
+    width: 100px;
+    margin-left: 67px;
+
+}
+.r3{
+    width: 100px;
+
+}
+.r4{
+    width: 150px;
+
+}
+
+.r5{
+    width: 100px;
+    margin-right: 70px;
+
+}
+.r6{
+    width: 100px;
+}
+
+.r11{
+    width: 100px;
+
+}
+.r12{
+    width: 100px;
+
+}
+.r13{
+    width: 100px;
+
+}
+.r14{
+    width: 100px;
+
+}
+
+.r15{
+    width: 100px;
+
+}
+.r16{
+    display: flex;
+    gap: 10px;
+}
+.raw2{
+   
+    background-color: white;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    gap: 115px;
+    margin-top: 19px;
+    height: 31px;
+    align-items: center;
+    border-bottom: 1px solid black;
+}  
+
+.edit{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+.delete{
+    text-decoration: underline;
+    color: red;
+    cursor: pointer;
+}
+.buttonSection{
+    margin-top: 50px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.buttons{
+    width: 280px;
+    height: 60px;
+}

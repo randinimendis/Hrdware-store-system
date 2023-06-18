@@ -1,0 +1,114 @@
+.raws1{
+    background-color: rgb(207, 202, 202);
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    gap: 50px;
+    margin-top: 19px;
+    height: 51px;
+    font-weight: 800;
+    align-items: center;
+}
+.rs1{
+    width: 130px;
+    margin-left: 31px;
+
+}
+.rs2{
+    width: 100px;
+    margin-left: -40px;
+
+}
+.rs3{
+    width: 100px;
+
+}
+.rs4{
+    width: 100px;
+
+}
+
+.rs5{
+    width: 100px;
+}
+.rs6{
+    width: 100px;
+    margin-right: 52px;
+}
+
+.rs11{
+    width: 100px;
+
+}
+.rs12{
+    width: 100px;
+
+}
+.rs13{
+    width: 100px;
+
+}
+.rs14{
+    width: 100px;
+
+}
+
+.rs15{
+    width: 100px;
+
+}
+.rs16{
+    width: 100px;
+}
+.raws2{   
+    background-color: white;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    gap: 113px;
+    margin-left: 7px;
+    margin-top: 19px;
+    height: 31px;
+    align-items: center;
+    border-bottom: 1px solid black;
+}  
+
+.tableWrapper{
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.edit{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+.delete{
+    text-decoration: underline;
+    color: red;
+    cursor: pointer;
+}
+.buttonSection{
+    margin-top: 50px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.buttons{
+    width: 200px;
+    height: 60px;
+    width: 200px;
+    font-size: 20px;
+    height: 60px;
+    font-weight: 700;
+    cursor: pointer;
+
+
+}

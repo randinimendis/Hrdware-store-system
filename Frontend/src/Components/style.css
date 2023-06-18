@@ -1,0 +1,50 @@
+.parent-delete-icon .delete-icon {
+	font-size: 1.5rem;
+	color: green;
+}
+
+.parent-delete-icon .delete-icon:hover {
+	color: red;
+}
+
+.products-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	overflow-x: scroll;
+	transition: all 0.3s ease-in-out;
+	scroll-behavior: smooth;
+}
+
+.products-container::-webkit-scrollbar {
+	display: none;
+}
+
+.navbar-text.assistance {
+	text-align: left;
+	margin-left: 0;
+	padding-left: 49px;
+	margin-bottom: 1px;
+	margin-top: -1px;
+	padding-bottom: 0;
+	padding-top: 0;
+	color: #fff;
+}
+
+.navbar-text.delivery {
+	text-align: left;
+	margin-left: 0;
+	padding-left: 49px;
+	padding-bottom: 0;
+	margin-bottom: 1px;
+	margin-top: -1px;
+	padding-top: 1px;
+	color: #fff;
+}
+
+.buttons {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 15px;
+	background-color: rgb(15 49 84 / 13%);
+}

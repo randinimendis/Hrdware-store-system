@@ -1,0 +1,21 @@
+.parent-delete-icon .delete-icon {
+  font-size: 1.5rem;
+  color: green;
+}
+
+.parent-delete-icon .delete-icon:hover {
+  color: red;
+}
+
+.products-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow-x: scroll;
+  transition: all 0.3s ease-in-out;
+  scroll-behavior: smooth;
+}
+
+.products-container::-webkit-scrollbar {
+  display: none;
+}
