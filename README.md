@@ -1,4 +1,23 @@
 # Hrdware-store-system
+Please go under edit and edit this file as needed for your project
+
+# Project Name - HARDWARE STORE MANAGEMENT SYSTEM
+# Batch - 03
+### Group Leader - IT21228094 MENDIS A.R.P.(randinimendis)
+### Member 2 - IT21372162 BANDARA.D.M.A.T.D.(IT21372162)
+### Member 3 - IT21383298 Shanuka P.P.I(Ishan4395)
+### Member 4 - IT21225574 Jayasinghe J.A.J.M(jayyyy00)
+### Member 5 - IT21239366 Niwantha W.P.I (InoshN)
+### Member 6 - IT21231100 Sandaruwan W.M.I.M. (ImalMS)
+### Member 7 - IT21787072 Costa D.A.S (it21787072)
+### Member 8 - IT21225956 Thilakarathne M.B.N. (IT21225956)
+
+#### Brief Description of Project - 
+#### Technologies used -  MERN Stack
+
+Note - The student's github account should be given in brackets e.g. (asiriRepos), this ideally should be your student id 
+
+
 Hardware management system is a web-based application that allows the manager to handle all activities through 
 online. User friendly GUI and the ability to manage various orders make this system very flexibility and convenient. 
 All the tasks are done by manager, so it is difficult to done manually on paper. This application approaches the 
