@@ -1,6 +1,4 @@
 # Hrdware-store-system
-Please go under edit and edit this file as needed for your project
-
 # Project Name - HARDWARE STORE MANAGEMENT SYSTEM
 # Batch - 03
 ### Group Leader - IT21228094 MENDIS A.R.P.(randinimendis)
